@@ -1,0 +1,11 @@
+nav{
+    background-color: black;
+}
+body{
+    scroll-behavior: smooth;
+    font-family: sans-serif;
+}
+.nav-link:hover { 
+    border-bottom: 2px solid rgba(192, 11, 11, 0.788);
+    transition: 5ms ease;
+}
